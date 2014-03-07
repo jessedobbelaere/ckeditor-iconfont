@@ -2,7 +2,7 @@
 Insert one of your icons into your content inside CKEditor without the hassle of typing the HTML code yourself in the cluttered CKEditor code view.
 
 ## Description
-I often use icons on webpages. Nowadays it's a best practice to use icon fonts. There provide a number of benefits such as: being vector-based, scalable without losing quality or precision, they can be colored or be transparant, animated and use lesser http requests and lower file size.
+I often use icons on webpages. Nowadays it's a best practice to use icon fonts. They provide a number of benefits such as: being vector-based, scalable without losing quality or precision, they can be colored or be transparant, animated and they use lesser http requests and have a lower file size.
 
 To use these icon fonts inside a WYSIWYG editor like CKEditor (used in Fork CMS), you can either switch to the editor's HTML view and type some html code yourself, or you can **use this CKEditor plugin to insert the icon at the exact place where the cursor is located**. It's not pleasant to type HTML code right inside the cluttered CKEditor "Source" code view, so I created this small plugin to do this job for me.
 
